@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Frameworks, Libraries, and Environments
 <p>
-  ReactJS, NodeJS, Vue.JS Express, Rails, Bootstrap, SASS, Material UI
+  ReactJS, NodeJS, Typescript, Vue.JS Express, Rails, Bootstrap, SASS, Material UI
 </p>
 
 ### Systems, CMS, and Databases
