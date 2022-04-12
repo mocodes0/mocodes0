@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💻 Diploma in Web Development, Lighthouse Labs Inc.
 - 🎓 Bachelor of Business Administration, University of Guelph Humber
 - 💼 Several years of IT experience, Technical Support and Troubleshooting Hardware and Software
-- 👨🏻‍💻 Starting a new career as a Full Stack Developer
+- 👨🏻‍💻 Starting a new career as a Full Stack Developer. Currently looking for fullstack, front-end or UI/UX positions where I can continue to learn and develop my skills.
 
 ## 📚 My Tech Stack
 ### Languages
