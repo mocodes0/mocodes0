@@ -1,4 +1,4 @@
-### Hi there Mohamed Bashir, Thanks for visiting my Github!👋
+### Hey I'm Mohamed Bashir. Thanks for visiting my Github! 👋
 
 <!--
 **mocodes0/mocodes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
