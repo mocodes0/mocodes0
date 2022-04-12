@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 <p>
   JavaScript, Python, Ruby, CSS, HTML
 </p>
+
 ### Frameworks, Libraries, and Environments
 <p>
   ReactJS, NodeJS, Typescript, Vue.JS Express, Rails, Bootstrap, SASS, Material UI
 </p>
+
 ### Systems, CMS, and Databases
 <p>
   MongoDB, PostgreSQL, Storybook, Mocha, Chai, Jest, Cypress, GitHub, Git
 </p>
+
 ## 📬 How To Reach Me
 <p><a href="https://www.linkedin.com/in/mohamedbashir1/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="mailto:mo.dev416@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a></p>
