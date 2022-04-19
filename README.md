@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mocodes0.mocodes0&color=yellow&style=for-the-badge&logo=Github)
 ## 👤 Quick Facts About Me
 - 💻 Diploma in Web Development, Lighthouse Labs Inc.
-- 🎓 Bachelor of Business Administration, University of Guelph Humber
 - 💼 Several years of IT experience, Technical Support and Troubleshooting Hardware and Software
 - 👨🏻‍💻 Starting a new career as a Full Stack Developer  
 ## 📚 My Tech Stack
